@@ -1,0 +1,8 @@
+download "yolov3.weights" move to /yolo-coco
+(https://pjreddie.com/media/files/yolov3.weights)
+
+Download ffmpeg link to "AudioSegment.converter"
+(https://ffmpeg.org/releases/ffmpeg-4.2.1.tar.bz2)
+
+---> have to fix problem in GTTS package 2018(have problem with py3.7)
+     

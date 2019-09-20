@@ -1,0 +1,6 @@
+---->Download yolo.h5 and move to /ODSR/model_data (https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5)
+----> I'll upload Car Image dataset soon(drive.ai dataset is used).
+
+----> We have to collect more car image data .
+       Using google Speech synthesis technique have to develop real time text to speech converter.
+       build models for other objects( have to collect data of the objects)
